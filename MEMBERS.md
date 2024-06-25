@@ -12,7 +12,6 @@ This document lists the Steering Committee of the Organization (the "SC"), the A
 | --- | --- |
 | Jethro Seghers | Microsoft |
 | Jean-Francois Guertin  | Edwire |
-| Chad Vidden | Kwantum |
 | Gene Garcia | Authentica Solutions |
 
 ## Advisory Board (AB)
