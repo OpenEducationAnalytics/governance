@@ -19,3 +19,4 @@ This document lists the Steering Committee of the Organization (the "SC"), the A
 | **NAME** | **Organization** |
 | --- | --- |
 | Maria Langworthy | CampusEvolve |
+| Miguel Molina-Cosculluela | Analytikus |
