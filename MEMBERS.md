@@ -20,3 +20,4 @@ This document lists the Steering Committee of the Organization (the "SC"), the A
 | --- | --- |
 | Maria Langworthy | CampusEvolve |
 | Miguel Molina-Cosculluela | Analytikus |
+| Matt Woodruff | Open Education AI |
