@@ -13,6 +13,7 @@ This document lists the Steering Committee of the Organization (the "SC"), the A
 | Jethro Seghers | Microsoft |
 | Jean-Francois Guertin  | Edwire |
 | Gene Garcia | Authentica Solutions |
+| Buki Froelke | Google |
 
 ## Advisory Board (AB)
 
@@ -23,4 +24,5 @@ This document lists the Steering Committee of the Organization (the "SC"), the A
 | Matt Woodruff | Open Education AI |
 | Bryan Alvarado | Fresno Unified School District
 | Kevin McCandless | AWS |
+| Joe Westwright | Google |
 
