@@ -22,7 +22,8 @@ This document lists the Steering Committee of the Organization (the "SC"), the A
 | Maria Langworthy | CampusEvolve |
 | Miguel Molina-Cosculluela | Analytikus |
 | Matt Woodruff | Open Education AI |
-| Bryan Alvarado | Fresno Unified School District
+| Bryan Alvarado | Fresno Unified School District |
 | Kevin McCandless | AWS |
 | Joe Westwright | Google |
+| Lorraine Olson | Houston ISD |
 
