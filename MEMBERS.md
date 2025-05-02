@@ -11,7 +11,7 @@ This document lists the Steering Committee of the Organization (the "SC"), the A
 | **NAME** | **Organization** |
 | --- | --- |
 | Jethro Seghers | Microsoft |
-| Jean-Francois Guertin  | Edwire |
+| Jean-Francois Guertin  | EdGraph |
 | Gene Garcia | Authentica Solutions |
 | Buki Froelke | Google |
 
