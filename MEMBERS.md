@@ -14,6 +14,7 @@ This document lists the Steering Committee of the Organization (the "SC"), the A
 | Jean-Francois Guertin  | EdGraph |
 | Gene Garcia | Authentica Solutions |
 | Buki Froelke | Google |
+| Kevin McCandless | AWS |
 
 ## Advisory Board (AB)
 
@@ -23,7 +24,6 @@ This document lists the Steering Committee of the Organization (the "SC"), the A
 | Miguel Molina-Cosculluela | Analytikus |
 | Matt Woodruff | Open Education AI |
 | Bryan Alvarado | Fresno Unified School District |
-| Kevin McCandless | AWS |
 | Joe Westwright | Google |
 | Lorraine Olson | Houston ISD |
 
